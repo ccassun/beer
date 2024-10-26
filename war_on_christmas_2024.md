@@ -1,7 +1,4 @@
-Here’s the recipe formatted in Markdown:
-
----
-
+# War on Christmas 2024 - ChatGPT Edition
 # Eggnog-Flavored Milk Stout Recipe (5.5 Gallons)
 
 ## Ingredients
