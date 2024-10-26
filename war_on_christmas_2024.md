@@ -1,6 +1,8 @@
 # War on Christmas 2024 - ChatGPT Edition
 ## Eggnog-Flavored Milk Stout Recipe (5.5 Gallons)
 
+---
+
 ## Ingredients
 - **6.6 lbs** Light Liquid Malt Extract (LME)
 - **2 lbs** Dark Dry Malt Extract (DME)
@@ -61,3 +63,4 @@
 - **ABV**: ~9.5–10%
 - **IBU (Bitterness)**: ~30-40 (balanced to moderate bitterness)
 - **SRM (Color)**: 40+ (opaque black)
+- **Calories**: Total: 134 (alcohol) + 73 (lactose) + 175 (residuals) ≈ 382 calories per 12-ounce pour
