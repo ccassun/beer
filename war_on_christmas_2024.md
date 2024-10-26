@@ -1,5 +1,5 @@
 # War on Christmas 2024 - ChatGPT Edition
-# Eggnog-Flavored Milk Stout Recipe (5.5 Gallons)
+## Eggnog-Flavored Milk Stout Recipe (5.5 Gallons)
 
 ## Ingredients
 - **6.6 lbs** Light Liquid Malt Extract (LME)
